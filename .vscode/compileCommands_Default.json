@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Unreal_Project\\Assignment_5th\\Source\\Assignment_5th\\Assignment_5th.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Assignment_5th\\.vscode\\compileCommands_Default\\Assignment_5th.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Project\\Assignment_5th\\Source\\Assignment_5th\\Assignment_5th.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Assignment_5th\\.vscode\\compileCommands_Default\\Assignment_5th.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal_Project\\Assignment_5th\\Source\\Assignment_5th\\Assignment_5th.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal_Project\\Assignment_5th\\.vscode\\compileCommands_Default\\Assignment_5th.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
